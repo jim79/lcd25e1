@@ -1,0 +1,12 @@
+- name: 4-bit ALU Design
+  description: This project demonstrates a fully functional 4-bit Arithmetic Logic Unit (ALU) capable of performing addition, subtraction, AND, and OR operations.
+  video: videos/batch1_project.mp4
+  
+- name: Traffic Light Controller
+  description: A state machine-based traffic light controller for a four-way intersection, implemented using basic logic gates and flip-flops.
+  video: videos/batch2_project.mp4
+  
+- name: Digital Clock
+  description: A 24-hour digital clock design using counters, decoders, and 7-segment displays to show hours, minutes, and seconds.
+  video: videos/batch3_project.mp4
+
